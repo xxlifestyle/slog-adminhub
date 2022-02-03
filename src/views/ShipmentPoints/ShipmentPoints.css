@@ -1,0 +1,23 @@
+.form-input{
+    margin-bottom: 8px;
+}
+.block-edit{
+    width:1000px
+}
+.q-dialog__inner--minimized > div{
+    max-width: none ;
+}
+.edit-form{
+    width: 50%;
+}
+.qr-code img{
+    width: 80%;
+    height: 80%;
+}
+.qr-code{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

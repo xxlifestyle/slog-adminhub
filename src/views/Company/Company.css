@@ -1,0 +1,18 @@
+.form-input{
+    margin-bottom: 8px;
+}
+.con-inputs{
+    display: flex;
+    justify-content:space-between;
+}
+.con-item{
+    width: 49% !important;
+}
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
